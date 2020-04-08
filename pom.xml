@@ -10,6 +10,10 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <sonar.projectKey>ManchevaVictoria_servlet4</sonar.projectKey>
+         <sonar.organization>manchevavictoria</sonar.organization>
+          <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+         <sonar.login>6584f8051775580e3e5673966fd8f537177b8d83</sonar.login>
     </properties>
 
     <dependencies>
